@@ -7,6 +7,12 @@ a:hover {
     text-decoration:underline;
 }
 
+#search-bar {
+    border-radius: 20px;
+    width: 400px;
+    height: 30px;
+}
+
 button {
     background-color: #f1f1f1;
     border: none; 
