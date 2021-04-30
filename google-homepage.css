@@ -18,9 +18,11 @@ body {
 
 #nav-links li {
     display: inline-block;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 10px;
 }
+
 a {
     text-decoration: none;
     color: #000000;
@@ -29,6 +31,10 @@ a {
 
 a:hover {
     text-decoration:underline;
+}
+
+main {
+    padding-bottom: 60px;
 }
 
 #search-section {
@@ -99,8 +105,8 @@ a:hover {
 
 #footer li {
     display: inline-block;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 #footer {
